@@ -65,12 +65,12 @@ const nabil = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nchakrou&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&ring_color=FF0000" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nchakrou&hide_border=true&background=0D1117&stroke=FF000030&ring=FF0000&fire=FF0000&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF0000&sideLabels=FF0000&dates=555555" />
+<img src="https://github-readme-stats.vercel.app/api?username=nchakrou&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=C9D1D9&ring_color=FF0000" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nchakrou&hide_border=true&background=000000&stroke=FF000030&ring=FF0000&fire=FF0000&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=FF0000&sideLabels=FF0000&dates=555555" />
 
 <br>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchakrou&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nchakrou&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
@@ -84,11 +84,8 @@ const nabil = {
 
 [![Bio Link](https://img.shields.io/badge/bio.link-%23FF0000.svg?style=for-the-badge&logo=link&logoColor=black)](https://bio.link/nchakrou)
 [![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/nchakrou)
-
 </div>
-
-<br>
-
+<br clear="both">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 
 </div>
