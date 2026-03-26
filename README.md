@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0000,100:e60000&height=180&section=header&text=Nabil%20Chakrou&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=52&descColor=ff0000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a0000,50:8f0000,100:ff0000&height=180&section=header&text=Nabil%20Chakrou&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20•%20Morocco%20🇲🇦&descSize=16&descAlignY=52&descColor=ff0000"/>
 
 <div align="center">
 
@@ -89,6 +89,6 @@ const nabil = {
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1a0000,e60000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
 
 </div>
